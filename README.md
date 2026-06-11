@@ -23,9 +23,16 @@ The projects cover histogram analysis, contrast enhancement, geometric transform
 
 Labs 3, 4, and 6 are preserved as complete reports because their standalone source files and some original input images are not available in the current course archive. The reports include the implementation, visual results, answers, and conclusions.
 
-## Technologies and Skills
+## Skills and Achievements
 
-`MATLAB` · `Computer Vision` · `Image Processing` · `Image Filtering` · `Edge Detection` · `Image Segmentation` · `Hough Transform` · `Watershed Segmentation` · `Mathematical Morphology` · `K-means Clustering`
+- Implemented and evaluated image-processing algorithms in MATLAB through six laboratory projects.
+- Enhanced image quality using histogram analysis, contrast adjustment, and noise-reduction filters.
+- Applied affine and projective transformations, corrected image distortion, and performed image stitching.
+- Detected image boundaries using Roberts, Prewitt, Sobel, Laplacian, and Canny operators.
+- Segmented images using thresholding, CIE Lab, nearest-neighbor classification, k-means clustering, and texture analysis.
+- Detected lines and circles using classical, probabilistic, and circular Hough Transform methods.
+- Used mathematical morphology and watershed segmentation to clean images and separate overlapping objects.
+- Compared algorithm performance, visualized experimental results, and documented findings in technical reports.
 
 ## Authors
 
