@@ -30,6 +30,6 @@ Labs 3, 4, and 6 are preserved as complete reports because their standalone sour
 ## Authors
 
 - Nguyen Khanh Ngoc
-- Dau Minh Thu
+- Dau Minh Su
 
 ITMO University, 2026.
